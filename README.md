@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LenaStruniawska
-- 👀 I’m interested in fashon
+- 👀 I’m interested in SwiftUI
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mag.sok@onet.pl
